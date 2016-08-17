@@ -28,6 +28,11 @@ body {
   color: #000000;
 }
 
+.navbar-inverse .navbar-toggle:hover,
+.navbar-inverse .navbar-toggle:focus {
+  background-color: #333;
+}
+
 a {
 	color: #000000;
 }

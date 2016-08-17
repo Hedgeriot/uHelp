@@ -29,6 +29,11 @@ body {
   color: #000000;
 }
 
+.navbar-inverse .navbar-toggle:hover,
+.navbar-inverse .navbar-toggle:focus {
+  background-color: #000000;
+}
+
 .thumbnail img {
     width: 100%;
 }
