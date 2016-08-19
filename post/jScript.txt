@@ -1,0 +1,20 @@
+John's Portion of the Pitch Presentation!
+
+Featuring:
+	Technology!
+	Website Development!
+	Website-Based Application Development!
+	Excitement!
+
+
+1. Introduce the website (But don't give a link)
+2. Introduce the application coded in HTML/CSS/JavaScript (the website)
+3. Show how the website can be turned into an mobile application using
+   Ionic or Framework 7 for effectively minimal cost and time, creating
+   an ideal Minimal Viable Product (MVP) (woo, buisness terms)
+4. Identify the app's features and how it will function (navigation and
+	pairing algorithms)
+5. Identify planned features (LinkedIn Integration, Forums and Rewards system)
+6. Conclude
+7. ???
+8. Profit!
