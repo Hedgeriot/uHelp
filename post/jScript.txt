@@ -4,7 +4,7 @@ Featuring:
 	Technology!
 	Website Development!
 	Website-Based Application Development!
-	Excitement!
+	Excitement!!!
 
 
 1. Introduce the website (But don't give a link)
@@ -12,9 +12,11 @@ Featuring:
 3. Show how the website can be turned into an mobile application using
    Ionic or Framework 7 for effectively minimal cost and time, creating
    an ideal Minimal Viable Product (MVP) (woo, buisness terms)
-4. Identify the app's features and how it will function (navigation and
-	pairing algorithms)
-5. Identify planned features (LinkedIn Integration, Forums and Rewards system)
-6. Conclude
-7. ???
-8. Profit!
+4. How the app pairs with the Student's university e-mail adress, giving 
+   them their respective content from a web server     
+5. Identify the app's features and how it will function (navigation and
+	pairing algorithms, profiles and that stuff)
+6. Identify planned features (LinkedIn Integration, Forums and Rewards system)
+7. Conclude
+8. ???
+9. Profit!
